@@ -1,4 +1,4 @@
-
+# ![Forge Wiki Website](https://raw.githubusercontent.com/forgewiki/.github/main/profile/github-banner.png)
 Forge Wiki is a wiki site that is dedicated on documenting all the things related to the [Halo](https://www.halowaypoint.com/) in-game level editor, Forge.
 
 <!--
